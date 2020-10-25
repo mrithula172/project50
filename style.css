@@ -1,0 +1,27 @@
+
+*{
+    border: solid;
+}
+.header{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+}
+.header2{
+    background-color: crimson;
+}
+.header3{
+    background-color: cadetblue;
+}
+.header4{
+    background-color: darkviolet
+}
+.image1{
+    background-color: mediumslateblue;
+}
+.image2{
+    background-color: mediumslateblue;
+}
+.image3{
+    background-color: mediumslateblue;
+}
